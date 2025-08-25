@@ -28,6 +28,13 @@ tv_listen_voice_indices 3128
 
 Paste the two last lines into the CS2 developer console after opening the demo via `playdemo`. This will enable the voice comms for the respective team.
 
+## Prebuilds
+
+Find single file prebuild binaries to use in [dist](./dist).
+They are large, but do not require python or any knowledge.
+
+You can also build a binary yourself. See next section.
+
 
 ## Build
 
